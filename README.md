@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tir25/Tir25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner with Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Tirth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-Here are some ideas to get you started:
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+TypeScript+Enthusiast;Building+Real-Time+Applications+%26+Beautiful+UIs" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile Views & Social Badges -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=Tir25&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/Tir25?tab=followers"><img src="https://img.shields.io/github/followers/Tir25?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/></a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍� About Me
+
+```typescript
+const tirth: Developer = {
+    location: "India 🇮🇳",
+    roles: ["Full Stack Developer", "UI/UX Enthusiast", "Open Source Contributor"],
+    currentFocus: "Building real-time applications with WebSockets & Supabase",
+    funFact: "I built a Bus Tracking System for my entire university! �",
+    
+    skills: {
+        languages: ["TypeScript", "JavaScript", "Python", "SQL"],
+        frontend: ["React", "Next.js", "Vite", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express", "Socket.IO", "REST APIs"],
+        database: ["Supabase", "PostgreSQL", "MongoDB"],
+        devOps: ["Docker", "Vercel", "Nginx", "CI/CD"]
+    },
+    
+    philosophy: "Code is poetry, and every bug is just an undiscovered feature 🪲"
+};
+```
+
+<div align="center">
+  
+### 💡 *"Transforming ideas into elegant, performant, and scalable solutions"*
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend & Real-Time
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Database & BaaS
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🚌 **[BTS - Bus Tracking System](https://github.com/Tir25/BTS)** | Real-time university fleet management platform with live tracking, driver apps & admin dashboard | `TypeScript` `React` `Express` `Socket.IO` `Supabase` `Docker` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/BTS) |
+| 💬 **[He'loo Platform](https://github.com/Tir25/hello2527)** | Experimental social media with real-time messaging & video calls | `React` `Vite` `Node.js` `Socket.IO` `Supabase Edge Functions` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/hello2527) |
+| 📚 **[Rudri P Portfolio](https://github.com/Tir25/rudri-p-portfolio)** | Full Stack Blog & Research Papers Platform with 3D interactive elements | `Next.js` `React` `Supabase` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/rudri-p-portfolio) |
+| 🏢 **[VR-NEXTGEN](https://github.com/Tir25/VR-NEXTGEN)** | Enterprise company website with OWASP security & 94% image optimization | `Next.js` `TypeScript` `Tailwind CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/VR-NEXTGEN) |
+| ✨ **[Interactive Portfolio](https://github.com/Tir25/interactive-portfolio)** | Stunning animated personal showcase with Framer Motion | `React` `TypeScript` `Vite` `Framer Motion` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/interactive-portfolio) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tir25&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## � GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+### � *Open for collaborations, freelance opportunities, and interesting conversations!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you like my work, consider giving a star to my repositories! ⭐**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
