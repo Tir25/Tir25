@@ -88,6 +88,13 @@ const tirth: Developer = {
 
 <br/>
 
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/0077B6/Tir25" alt="GitHub Contribution Calendar" width="100%"/>
+
+<p><i>💡 Hover over squares on your profile to see exact contribution counts per day</i></p>
+
+<br/>
+
 <div align="center">
   <a href="https://skyline.github.com/Tir25/2024"><img src="https://img.shields.io/badge/View_3D_Skyline-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
 </div>
