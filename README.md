@@ -104,33 +104,33 @@ const tirth: Developer = {
 <br/>
 
 <div align="center">
-  <a href="https://skyline.github.com/Tir25/2025"><img src="https://img.shields.io/badge/View_3D_Skyline-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
+  <a href="https://skyline.github.com/Tir25/2024"><img src="https://img.shields.io/badge/View_3D_Skyline-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
 </div>
 
 <br/>
 
-<!-- Grid of Summary Cards with Ocean Blue Theme -->
+<!-- Grid of Summary Cards with Prussian Blue Theme -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tir25&theme=ocean" width="450px"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tir25&theme=ocean" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tir25&theme=prussian" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tir25&theme=prussian" width="450px"/></td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tir25&theme=ocean" width="450px"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tir25&theme=ocean" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tir25&theme=prussian" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tir25&theme=prussian" width="450px"/></td>
   </tr>
 </table>
 
 <br/>
 
 ### 🚀 Overall Performance
-<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=caf0f8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=prussian&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=prussian&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=caf0f8" alt="Top Languages" height="180"/>
 
 <br/>
 
 ### 📈 Commitment & Consistency
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=ocean&hide_border=true&background=0D1117&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=prussian&hide_border=true&background=0D1117&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6" alt="GitHub Streak" />
 
 </div>
 
@@ -140,7 +140,7 @@ const tirth: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=ocean&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=prussian&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -148,7 +148,7 @@ const tirth: Developer = {
 
 ## 🛠️ Weekly Metrics (WakaTime)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tir25&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tir25&theme=prussian&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8" alt="WakaTime Stats" />
 </div>
 
 ---
