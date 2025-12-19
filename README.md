@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Header Banner with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Tirth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Header Banner with Ocean Blue Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&customColorList=023E8A,0077B6,00B4D8&height=180&section=header&text=Hey%20There!%20I'm%20Tirth%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+TypeScript+Enthusiast;Building+Real-Time+Applications+%26+Beautiful+UIs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Full+Stack+Developer+%7C+TypeScript+Enthusiast;Building+Real-Time+Applications+%26+Beautiful+UIs" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Social Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=Tir25&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/Tir25?tab=followers"><img src="https://img.shields.io/github/followers/Tir25?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Tir25&label=Profile%20Views&color=0077B6&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/Tir25?tab=followers"><img src="https://img.shields.io/github/followers/Tir25?label=Followers&style=for-the-badge&color=023E8A" alt="Followers"/></a>
 </p>
 
 </div>
@@ -49,35 +49,30 @@ const tirth: Developer = {
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 Languages & Logic
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+### 🎨 Frontend Excellence
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-### Backend & Real-Time
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### ⚡ Backend & Real-time
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
-### Database & BaaS
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🚀 Ops & Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
 
@@ -104,38 +99,38 @@ const tirth: Developer = {
 <div align="center">
 
 ### 🗓️ Contribution Heatmap & Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tir25&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Detailed Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tir25&bg_color=0D1117&color=00B4D8&line=0077B6&point=FFFFFF&area=true&hide_border=true" alt="Detailed Activity Graph" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <a href="https://skyline.github.com/Tir25/2025"><img src="https://img.shields.io/badge/View_3D_Skyline-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
+  <a href="https://skyline.github.com/Tir25/2025"><img src="https://img.shields.io/badge/View_3D_Skyline-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
 </div>
 
 <br/>
 
-<!-- Grid of Summary Cards -->
+<!-- Grid of Summary Cards with Ocean Blue Theme -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tir25&theme=tokyonight" width="400px"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tir25&theme=tokyonight" width="400px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tir25&theme=ocean" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tir25&theme=ocean" width="450px"/></td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tir25&theme=tokyonight" width="400px"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tir25&theme=tokyonight" width="400px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tir25&theme=ocean" width="450px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tir25&theme=ocean" width="450px"/></td>
   </tr>
 </table>
 
 <br/>
 
 ### 🚀 Overall Performance
-<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=caf0f8" alt="Top Languages" height="180"/>
 
 <br/>
 
 ### 📈 Commitment & Consistency
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=ocean&hide_border=true&background=0D1117&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6" alt="GitHub Streak" />
 
 </div>
 
@@ -145,19 +140,15 @@ const tirth: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=ocean&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
 ## 🛠️ Weekly Metrics (WakaTime)
-<!-- 
-  TIP: If you use WakaTime, you can display your weekly coding hours here. 
-  Setup: https://github.com/athul/waka-readme
--->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tir25&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tir25&theme=ocean&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=caf0f8" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -166,16 +157,16 @@ const tirth: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<a href="https://www.linkedin.com/in/tirth-raval-bbbba3210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/tirthraval27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://t-portfolio-khaki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:tirthraval27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
-### � *Open for collaborations, freelance opportunities, and interesting conversations!*
+### 💬 *Open for collaborations, freelance opportunities, and interesting conversations!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&customColorList=023E8A,0077B6,00B4D8&height=100&section=footer"/>
 
 </div>
 
