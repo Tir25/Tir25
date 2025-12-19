@@ -87,44 +87,77 @@ const tirth: Developer = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🚌 **[BTS - Bus Tracking System](https://github.com/Tir25/BTS)** | Real-time university fleet management platform with live tracking, driver apps & admin dashboard | `TypeScript` `React` `Express` `Socket.IO` `Supabase` `Docker` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/BTS) |
-| 💬 **[He'loo Platform](https://github.com/Tir25/hello2527)** | Experimental social media with real-time messaging & video calls | `React` `Vite` `Node.js` `Socket.IO` `Supabase Edge Functions` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/hello2527) |
-| 📚 **[Rudri P Portfolio](https://github.com/Tir25/rudri-p-portfolio)** | Full Stack Blog & Research Papers Platform with 3D interactive elements | `Next.js` `React` `Supabase` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/rudri-p-portfolio) |
-| 🏢 **[VR-NEXTGEN](https://github.com/Tir25/VR-NEXTGEN)** | Enterprise company website with OWASP security & 94% image optimization | `Next.js` `TypeScript` `Tailwind CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/VR-NEXTGEN) |
-| ✨ **[Interactive Portfolio](https://github.com/Tir25/interactive-portfolio)** | Stunning animated personal showcase with Framer Motion | `React` `TypeScript` `Vite` `Framer Motion` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/interactive-portfolio) |
+| Project | Description | Tech Stack | Metrics | Links |
+|---------|-------------|------------|---------|-------|
+| 🚌 **[BTS - Bus Tracking System](https://github.com/Tir25/BTS)** | Real-time university fleet management platform with live tracking, driver apps & admin dashboard | `TypeScript` `React` `Express` `Socket.IO` `Supabase` `Docker` | ![Stars](https://img.shields.io/github/stars/Tir25/BTS?style=flat-square&color=6366F1) ![Forks](https://img.shields.io/github/forks/Tir25/BTS?style=flat-square&color=6366F1) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/BTS) |
+| 💬 **[He'loo Platform](https://github.com/Tir25/hello2527)** | Experimental social media with real-time messaging & video calls | `React` `Vite` `Node.js` `Socket.IO` `Supabase Edge Functions` | ![Stars](https://img.shields.io/github/stars/Tir25/hello2527?style=flat-square&color=6366F1) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/hello2527) |
+| 📚 **[Rudri P Portfolio](https://github.com/Tir25/rudri-p-portfolio)** | Full Stack Blog & Research Papers Platform with 3D interactive elements | `Next.js` `React` `Supabase` | ![Stars](https://img.shields.io/github/stars/Tir25/rudri-p-portfolio?style=flat-square&color=6366F1) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/rudri-p-portfolio) |
+| 🏢 **[VR-NEXTGEN](https://github.com/Tir25/VR-NEXTGEN)** | Enterprise company website with OWASP security & 94% image optimization | `Next.js` `TypeScript` `Tailwind CSS` | ![Stars](https://img.shields.io/github/stars/Tir25/VR-NEXTGEN?style=flat-square&color=6366F1) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/VR-NEXTGEN) |
+| ✨ **[Interactive Portfolio](https://github.com/Tir25/interactive-portfolio)** | Stunning animated personal showcase with Framer Motion | `React` `TypeScript` `Vite` | ![Stars](https://img.shields.io/github/stars/Tir25/interactive-portfolio?style=flat-square&color=6366F1) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Tir25/interactive-portfolio) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Detailed Analytics & Coding Habits
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+### 🗓️ Contribution Heatmap & Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tir25&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Detailed Activity Graph" width="100%"/>
+
+<br/>
+
+<div align="center">
+  <a href="https://skyline.github.com/Tir25/2025"><img src="https://img.shields.io/badge/View_3D_Skyline-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" /></a>
+</div>
+
+<br/>
+
+<!-- Grid of Summary Cards -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tir25&theme=tokyonight" width="400px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tir25&theme=tokyonight" width="400px"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tir25&theme=tokyonight" width="400px"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tir25&theme=tokyonight" width="400px"/></td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Overall Performance
+<img src="https://github-readme-stats.vercel.app/api?username=Tir25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tir25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 <br/>
 
+### 📈 Commitment & Consistency
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tir25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tir25&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-## � GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tir25&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
+</div>
+
+---
+
+## 🛠️ Weekly Metrics (WakaTime)
+<!-- 
+  TIP: If you use WakaTime, you can display your weekly coding hours here. 
+  Setup: https://github.com/athul/waka-readme
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tir25&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="WakaTime Stats" />
 </div>
 
 ---
